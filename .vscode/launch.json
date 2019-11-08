@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IntStack",
+            "request": "launch",
+            "mainClass": "stack.IntStack",
+            "projectName": "data-structures_fda3b10b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DynamicArray",
             "request": "launch",
             "mainClass": "DynamicArray",
